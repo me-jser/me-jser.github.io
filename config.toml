@@ -1,0 +1,4 @@
+baseURL = "https://me-jser.github.io/"
+languageCode = "en-us"
+title = "Becoming A Full Stacker"
+theme = "ananke"
