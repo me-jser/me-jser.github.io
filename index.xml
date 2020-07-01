@@ -1,24 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>John Smith</title>
-    <link>//ajser.site/</link>
-    <description>Recent content on John Smith</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2020 15:51:20 +0800</lastBuildDate>
-    
-	<atom:link href="//ajser.site/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>测试一下下</title>
-      <link>//ajser.site/posts/my-first-post/</link>
-      <pubDate>Wed, 01 Jul 2020 15:51:20 +0800</pubDate>
-      
-      <guid>//ajser.site/posts/my-first-post/</guid>
-      <description>这是我的第一篇推文 </description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveIt</title>
+        <link>https://example.com/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 01 Jul 2020 15:51:20 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>测试一下下</title>
+    <link>https://example.com/my-first-post/</link>
+    <pubDate>Wed, 01 Jul 2020 15:51:20 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/my-first-post/</guid>
+    <description><![CDATA[这是我的第一篇推文 ]]></description>
+</item></channel>
 </rss>
