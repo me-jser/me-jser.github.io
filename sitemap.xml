@@ -1,20 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://me-jser.github.io/</loc>
-    <priority>0</priority>
+    <loc>//ajser.site/posts/</loc>
+    <lastmod>2020-07-01T15:51:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://me-jser.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>//ajser.site/</loc>
+    <lastmod>2020-07-01T15:51:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://me-jser.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>//ajser.site/about/</loc>
+    <lastmod>2020-07-01T15:51:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//ajser.site/posts/my-first-post/</loc>
+    <lastmod>2020-07-01T15:51:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//ajser.site/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>//ajser.site/tags/</loc>
   </url>
   
 </urlset>

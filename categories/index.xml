@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Become A Full Stacker</title>
-    <link>https://me-jser.github.io/categories/</link>
-    <description>Recent content in Categories on Become A Full Stacker</description>
+    <title>Categories on John Smith</title>
+    <link>//ajser.site/categories/</link>
+    <description>Recent content in Categories on John Smith</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
-	<atom:link href="https://me-jser.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ajser.site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
