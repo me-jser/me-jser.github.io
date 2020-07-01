@@ -2,30 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://ajser.site/posts/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://ajser.site/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ajser.site/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://ajser.site/"
-                    /></url><url>
-            <loc>https://ajser.site/node/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://ajser.site/tags/node/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://ajser.site/tags/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ajser.site/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://ajser.site/tags/"
-                    /></url><url>
-            <loc>https://ajser.site/list/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://ajser.site/tags/%E8%AE%A1%E5%88%92/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://ajser.site/categories/</loc><lastmod>2020-07-01T21:21:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://ajser.site/posts/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/categories/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://ajser.site/en/categories/"
@@ -34,6 +12,32 @@
                     hreflang="zh-cn"
                     href="https://ajser.site/categories/"
                     /></url><url>
+            <loc>https://ajser.site/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ajser.site/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://ajser.site/"
+                    /></url><url>
+            <loc>https://ajser.site/some-messy-ideas/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/tags/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ajser.site/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://ajser.site/tags/"
+                    /></url><url>
+            <loc>https://ajser.site/tags/%E6%83%B3%E6%B3%95/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/tags/%E9%9A%8F%E7%AC%94/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/categories/%E9%9A%8F%E7%AC%94/</loc><lastmod>2020-07-01T22:54:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/node/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/tags/node/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/list/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ajser.site/tags/%E8%AE%A1%E5%88%92/</loc><lastmod>2020-07-01T22:22:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ajser.site/redis/</loc><lastmod>2020-07-01T21:21:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ajser.site/tags/redis/</loc><lastmod>2020-07-01T21:21:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ajser.site/tags/%E5%90%8E%E7%AB%AF/</loc><lastmod>2020-07-01T21:21:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>

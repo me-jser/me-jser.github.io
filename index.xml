@@ -4,9 +4,16 @@
         <link>https://ajser.site/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>xiaosshuaii@gmail.com (John)</managingEditor>
-            <webMaster>xiaosshuaii@gmail.com (John)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 01 Jul 2020 22:22:22 &#43;0800</lastBuildDate>
+            <webMaster>xiaosshuaii@gmail.com (John)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 01 Jul 2020 22:54:29 &#43;0800</lastBuildDate>
             <atom:link href="https://ajser.site/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Some Messy Ideas</title>
+    <link>https://ajser.site/some-messy-ideas/</link>
+    <pubDate>Wed, 01 Jul 2020 22:54:29 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ajser.site/some-messy-ideas/</guid>
+    <description><![CDATA[一些乱七八糟的想法 近来心里总是有一些突然升起来的想法，无序又令人头疼 关于工作 工作至今也有不少年头，总是惶恐做错了什么，是不是有什么做的不够好]]></description>
+</item><item>
     <title>Node</title>
     <link>https://ajser.site/node/</link>
     <pubDate>Wed, 01 Jul 2020 22:22:22 &#43;0800</pubDate>
